@@ -1,5 +1,5 @@
 ﻿# Finalis Engineering Manifesto
-
+[https://www.finalis.com] Finalis.com
 ### 1. User insights over assumptions. Data-driven organization. 
 ### 2. We trust, we respect and we are kind with each other. 
 ### 3. We will have fun. 
