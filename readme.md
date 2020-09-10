@@ -20,6 +20,11 @@
 ### 18. We share information openly, broadly, and deliberately
 
 
+### Aug 10th
+
+- We need to democratize access to customers feedback
+- Have fun, we need to improve on this one
+..* Have a fun party on Sept 18th, after 1 pm
 
 Attic 
 
