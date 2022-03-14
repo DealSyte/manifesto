@@ -1,5 +1,6 @@
 ﻿# Finalis Engineering Manifesto
 [https://www.finalis.com] Finalis.com
+### 0. Customer first. We deliver value to our customers, above everything. Every day. 
 ### 1. User insights over assumptions. Data-driven organization. 
 ### 2. We trust, we respect and we are kind with each other. 
 ### 13. We work here because we want to work here, and it is our responsibility to ensure this healthy environment.
